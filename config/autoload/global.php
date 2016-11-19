@@ -38,7 +38,8 @@ return array(
     ),
     'i18n' => array(
         'choice' => array(
-            'en-US' => 'English',
+         /*   'en-US' => 'English',
+         */
             'de-DE' => 'Deutsch',
         ),
     ),
